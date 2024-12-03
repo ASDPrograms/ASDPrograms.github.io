@@ -1,0 +1,19 @@
+.agregarHijo{
+    border-radius: 100px;
+    border: none;
+    background-color: var(--cafecito);
+    width: 2.5em;
+    height: 2.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.agregarHijo:hover{
+    background-color: var(--cafe);
+}
+
+.agregarHijo img{
+    width: 1.4em;
+    height: 1.4em;
+}
